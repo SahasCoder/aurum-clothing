@@ -21,3 +21,6 @@ The storefront, product detail pages, Analysis, Feedback testimonials/form, Port
 - Added a custom-design information panel and an enquiry button that routes to the Feedback page.
 - The product remains marked **Out of stock**, consistent with the current catalogue.
 - Image path: `assets/products/classic-box-tee-black.jpg`.
+
+
+Latest catalogue update: Grey Hoodie and Black Hoodie product images have been replaced with the supplied local photographs. The black hoodie description now matches its plain design. All products remain out of stock.
